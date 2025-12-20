@@ -1,7 +1,7 @@
 package Application;
 
 import Entities.Product;
-import services.Inventory;
+import Services.Inventory;
 
 import java.util.Locale;
 import java.util.Scanner;
