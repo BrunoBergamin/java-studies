@@ -2,42 +2,58 @@ package entities;
 
 public class Account {
 
-        private final int number;
-        private String holder;
-        private double balance;
+    private final int number;
+    private String holder;
+    private double balance;
 
-    public Account(String holder, int number) {
-        this.holder = holder;
+    public static final double WITHDRAW_FEE = 5.00;
+
+
+    public Account(int number, String holder, double initialDeposit) {
         this.number = number;
-    }
-
-    public Account(double initialDeposit, String holder, int number) {
+        this.holder = holder;
         deposit(initialDeposit);
-        this.holder = holder;
-        this.number = number;
     }
 
-    public double getBalance() {
-        return balance;
+
+    public Account(int number, String holder) {
+        this.number = number;
+        this.holder = holder;
+    }
+
+
+    public int getNumber() {
+        return number;
     }
 
     public String getHolder() {
         return holder;
     }
 
-    public int getNumber() {
-        return number;
+    public double getBalance() {
+        return balance;
     }
+
 
     public void setHolder(String holder) {
         this.holder = holder;
     }
 
-    public void deposit (double amount){
+
+    public void deposit(double amount) {
         balance += amount;
     }
-    public void withdraw(double amount){
-        balance -= amount + 5.0;
+
+    public void withdraw(double amount) {
+        balance -= amount + WITHDRAW_FEE;
+    }
+
+    public String toString() {
+        return "Account "
+                + number
+                + ", Holder: "
+                + holder
+                + ", Balance: $ "
+                + String.format("%.2f", balance);
     }
 }
-

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5066df0e-c962-47f8-a31c-74c50798aacd" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../Test/src/entities/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../account-bank/src/application/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../account-bank/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../account-bank/src/entities/Account.java" beforeDir="false" afterPath="$PROJECT_DIR$/../account-bank/src/entities/Account.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desafio-campeao/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../desafio-campeao/src/application/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../desafio-campeao/src/entities/Champion.java" beforeDir="false" afterPath="$PROJECT_DIR$/../desafio-campeao/src/entities/Champion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vetores/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vetores/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vetores/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vetores/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vetores/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vetores/Vetores.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vetores/src/application/Program.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vetores/src/entities/Product.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "BrunoBergamin"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "git@github.com:BrunoBergamin/EstudosJava.git",
+    "accountId": "16ad9186-e3fb-40f4-953a-96e5530142f5"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="37tYc1UyBHkSHxyUHtFFVM9yl7G" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Usuário/OneDrive/Desktop/Java Expert/oop-ecxercicios/exercicios-vetores",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5066df0e-c962-47f8-a31c-74c50798aacd" name="Changes" comment="" />
+      <created>1767723910007</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767723910007</updated>
+    </task>
+    <servers />
+  </component>
+</project>
