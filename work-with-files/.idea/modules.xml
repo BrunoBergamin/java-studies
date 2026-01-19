@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/file-buffered-reader/file-buffered-reader.iml" filepath="$PROJECT_DIR$/file-buffered-reader/file-buffered-reader.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file-buffered-write/file-buffered-write.iml" filepath="$PROJECT_DIR$/file-buffered-write/file-buffered-write.iml" />
+      <module fileurl="file://$PROJECT_DIR$/file-handling/file-handling.iml" filepath="$PROJECT_DIR$/file-handling/file-handling.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fixation-exercises/src/fixation-exercises.iml" filepath="$PROJECT_DIR$/fixation-exercises/src/fixation-exercises.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fixation-exercises/fixation-exercises2.iml" filepath="$PROJECT_DIR$/fixation-exercises/fixation-exercises2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/manipulating-folders-file/manipulating-folders-file.iml" filepath="$PROJECT_DIR$/manipulating-folders-file/manipulating-folders-file.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/work-with-files.iml" filepath="$PROJECT_DIR$/.idea/work-with-files.iml" />
+    </modules>
+  </component>
+</project>
