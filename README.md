@@ -1,10 +1,12 @@
 # Java Studies
 
+Status: repositorio de estudo.
+
 Repositorio de estudos em Java com exercicios organizados por assunto, cobrindo desde logica de programacao ate temas mais estruturados como orientacao a objetos, interfaces, generics, expressoes lambda e manipulacao de arquivos.
 
 ## Visao geral
 
-Este repositorio foi montado como trilha de aprendizado progressiva. Em vez de concentrar tudo em um unico projeto, o conteudo foi separado por modulos para facilitar revisao, pratica e evolucao ao longo do tempo.
+Este nao e um sistema unico. E uma trilha de estudo organizada por temas, com varios exercicios independentes. A proposta e estudar Java passo a passo, praticando um assunto por vez e voltando nele quando preciso revisar.
 
 ## Principais trilhas de estudo
 
@@ -69,6 +71,14 @@ Se preferir, tambem e possivel compilar arquivos individuais pelo terminal com `
 ## Objetivo do repositorio
 
 Transformar teoria em pratica com exemplos curtos, organizados e faceis de revisar, criando uma base solida para projetos maiores em Java e Spring Boot.
+
+## Como este repositorio deve ser lido
+
+- como material de estudo
+- como registro de evolucao
+- como colecao de exercicios por assunto
+
+Se voce estiver olhando este repo como recrutador ou colega, o mais importante aqui nao e acabamento de produto, e sim variedade de conteudo praticado e progressao de aprendizado.
 
 ## Melhorias futuras
 
