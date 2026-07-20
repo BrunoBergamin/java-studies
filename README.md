@@ -10,7 +10,7 @@ Este nao e um sistema unico. E uma trilha de estudo organizada por temas, com va
 
 ## Principais trilhas de estudo
 
-- `sequential – conditional – repetitive`
+- `sequential - conditional - repetitive`
 - `exercises-arrays`
 - `exercises-lists`
 - `exercises-matrices`
@@ -37,7 +37,7 @@ Este nao e um sistema unico. E uma trilha de estudo organizada por temas, com va
 
 Uma boa ordem de estudo e:
 
-1. `sequential – conditional – repetitive`
+1. `sequential - conditional - repetitive`
 2. `exercises-arrays`
 3. `exercises-lists`
 4. `exercises-matrices`
